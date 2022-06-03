@@ -1,0 +1,6 @@
+intro = ["Sorry i can't come,","Please forgive my absence, unfortunatelly", "This is going to sound crazy but","Get this:","I can't go because","I know you're going to hate me but","I was minding my own buisness and boom!","I feel terrible but","I regretfully cannot attend,","This is going to sound like an excuse but","Guess what happend,","Boy do I have a story for you,","Sorry i am late but","I swear it wasn't my fault, but","Blimey, sorry i am late guv'nha but"]
+
+scapegoat = ["my nephew","my ex","a high school marching band","a sad clown","my Tinder date","some bloke","my imaginary girlfriend","my Ryan Reynolds cutout","my dog","Joseph and all of his carpenter friends","Joe Biden impersonator","a mall santa","Tom Holland's evil twin, Bob Neatherlands","a man with six fingers in his right hand and a banana in the other","the Roman Empire in all it's glory"]
+
+delay = ["isn't going to make it","died in front of me","won't stop telling me knock knock jokes","is having a nervous breakdown","poured lemonade in my gas tank","stole my bike","made me vote for Brexit","posted pictures of hot mailmen on my instagram","broke into my house","fell in the neighbour's pool","ate my homework","stole my identity","tried to sell me vacuum cleaners","called me 'too winy to fly a kite' whatever that means"]
+
