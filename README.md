@@ -1,3 +1,7 @@
 # excuses_generator
-Generates random excuses 
-# please don't sue me
+
+Generates random excuses
+
+To be used as a website feature.
+
+Visuals and animation done with basic CSS
